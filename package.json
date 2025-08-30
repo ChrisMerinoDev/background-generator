@@ -1,0 +1,11 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Cool background generator",
+  "author": "ChrisMerinoDev",
+  "license": "ISC",
+  "scripts": {
+    "start": "echo \"Open index.html in your browser\""
+  },
+  "keywords": ["background", "generator", "javascript"]
+}
