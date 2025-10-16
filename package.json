@@ -5,7 +5,7 @@
   "author": "ChrisMerinoDev",
   "license": "ISC",
   "scripts": {
-    "start": "echo \"Open index.html in your browser\""
+    "start": "live-server"
   },
   "keywords": ["background", "generator", "javascript"]
 }
